@@ -1,3 +1,0 @@
-As a club goer, I want to have a safe mode of transportation available at any time of day, so I do not end up walking back home on the side of the road. 
-As a business woman, I want a mode of transportation that tracks its arrival to me, so I do not unknowingly wait for a taxi to stop by. 
-As rural man without a car, I want a mode of transportation that allows to pay in cash, credit card, xor paypal, so I do not have to walk the next 20 miles to the nearest atm.
